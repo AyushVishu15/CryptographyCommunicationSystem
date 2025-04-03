@@ -28,5 +28,6 @@ Here’s a snapshot of the one-way communication in action between the server an
 - **Client**: Sends a message to the server and receives the reply.
 
 This demonstrates the secure exchange of encrypted messages using RSA and AES over a socket connection.
+
 ![Two-Way Communication Screenshot]
 ![image](https://github.com/user-attachments/assets/4ae789fd-92a8-44de-ab27-341bc7f0d334)
